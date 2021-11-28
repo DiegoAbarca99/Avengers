@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Capitana Marvel
+* Nick Fury
